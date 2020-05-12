@@ -17,7 +17,7 @@
       <pubDate>Fri, 26 Oct 2018 12:59:51 -0500</pubDate>
       
       <guid>/use-snap-to-install-the-hugo-edge-version-on-fedora-and-ubuntu/</guid>
-      <description>If you are using the Fedora or Ubuntu Linux distributions &amp;ndash; I&amp;rsquo;m currently on Fedora 28 &amp;ndash; and would like to help test the latest development version of Hugo, or if you just want to be on the bleeding-edge of things, this post is for you.
+      <description>If you are using the Fedora or Ubuntu Linux distributions &amp;ndash; I&#39;m currently on Fedora 28 &amp;ndash; and would like to help test the latest development version of Hugo, or if you just want to be on the bleeding-edge of things, this post is for you.
 Fedora-only steps To get started, install Snap on Fedora:
 sudo dnf install snapd Add the Snap directory to your PATH by adding this line to your ~/.</description>
     </item>
